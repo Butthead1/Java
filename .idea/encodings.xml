@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/test/java/Orders/OrderPurchases.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Orders/Orders.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Login/Page_PasswordRecovery.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Login/Page_Registration.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Orders/Page_OrderPurchases.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Orders/Page_OrderSales.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Orders/Page_Orders.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Authorization.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Bookmarks.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Cart.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Crafts.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Goods.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Page_Showcase.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Profile/Page_ChangePassword.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Profile/Page_Notifications.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page/Profile/Page_Profile.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Page_Test/Page_TestUI.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Suite/Cart.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Suite/Orders/OrderSales.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/Suite/Profile/Profile.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/buyerPageTests/Cart.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/buyerPageTests/ChangePassword.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/buyerPageTests/Crafts.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/buyerPageTests/Showcase.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/startingPageTests/AuthorizationTest.java" charset="windows-1251" />
+  </component>
+</project>
